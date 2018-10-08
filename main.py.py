@@ -40,4 +40,8 @@ with open(budgetdataCSV, 'r') as csvfile:
     print("Greatest Increase in Profits: (" + str(max(avgdifflist)) + ")")
     print("Greatest Decrease in Profits: (" + str(min(avgdifflist)) + ")")
     
-   
+   #Total Months: 86
+   #Total: $38382578
+   #Average Change: $-2315.1176470588234
+   #Greatest Increase in Profits: (1926159)
+   #Greatest Decrease in Profits: (-2196167)
