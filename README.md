@@ -1,6 +1,7 @@
 # PyBank
 ![Revenue](Images/revenue-per-lead.jpg)
-Analyzing the financial records of a company using Python script
+
+### Analyzing the financial records of a company using Python script
 * Task is to create a Python script that analyzes the records to calculate each of the following:
 
   * The total number of months included in the dataset
