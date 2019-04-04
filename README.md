@@ -2,7 +2,7 @@
 ![Revenue](Images/revenue-per-lead.jpg)
 
 ### Analyzing the financial records of a company using Python script
-* Task is to create a Python script that analyzes the records to calculate each of the following:
+* Task is to create a Python script that analyzes the records to calculate each of the following. Financial data is given in budget_data.csv.The dataset is composed of two columns: `Date` and `Profit/Losses`.
 
   * The total number of months included in the dataset
 
